@@ -10,4 +10,8 @@ This project is for the COMP3111 Lab Assignment.
 ### Project Structure
 *   `.idea/`: IntelliJ project configuration files.
 *   `src/`: Contains the main Java source code.
-*   `pom.xml`: The Maven Project Object Model file.
+*   `pom.xml`: The Maven Project Object M
+
+---
+### Screenshot
+![img.png](img.png)
